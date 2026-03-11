@@ -1,0 +1,6 @@
+{
+  "document": "Bank Guarantee",
+  "BankGuaranteeHash": "example-hash-of-bg",
+  "amount": 1000000,
+  "currency": "RUB"
+}
